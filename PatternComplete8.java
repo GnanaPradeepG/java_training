@@ -1,4 +1,10 @@
-class PatternComplete8 
+/*
+
+123
+123
+123
+
+*/class PatternComplete8 
 {
 	public static void main(String[] args) 
 	{

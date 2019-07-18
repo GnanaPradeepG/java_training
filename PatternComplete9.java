@@ -1,4 +1,12 @@
-class PatternComplete9 
+/*
+
+**        **
+ **      **
+  **    **
+   **  **
+    ****
+
+*/class PatternComplete9 
 {
 	public static void main(String[] args) 
 	{

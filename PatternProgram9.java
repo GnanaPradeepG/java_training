@@ -1,3 +1,12 @@
+/*
+
+****
+***
+**
+*
+
+*/
+
 class PatternProgram9 
 {
 	public static void main(String[] args) 

@@ -1,4 +1,11 @@
-class  PatternProgram10
+/*
+
+********
+******
+****
+**
+
+*/class  PatternProgram10
 {
 	public static void main(String[] args) 
 	{

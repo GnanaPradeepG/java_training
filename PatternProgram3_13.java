@@ -1,3 +1,14 @@
+/*
+
+    *
+   ***
+  *****
+ *******
+*********
+
+
+*/
+
 class PatternProgram3_13 
 {
 	public static void main(String[] args) 
