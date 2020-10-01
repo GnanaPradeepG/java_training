@@ -9,7 +9,7 @@ class DecisionEvenOdd
         }
         else
         {
-            System.out.println("It is an even Number");
+            System.out.println("It is an Odd Number");
         }
     }
 }
